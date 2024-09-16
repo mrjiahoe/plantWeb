@@ -85,6 +85,13 @@ a {
     color: var(--white-color);
 }
 
+a.nav__logo img {
+    width: 60px ;
+    /* https://bdwm.be/css-change-a-transparent-png-to-any-color-you-want/ */
+    filter: drop-shadow(0px 100px 0 white);
+    transform: translateY(-100px);
+}
+
 .nav__data {
     height: 100%;
     display: flex;
