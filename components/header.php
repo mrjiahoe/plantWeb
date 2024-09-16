@@ -2,7 +2,7 @@
         <nav class="nav container">
             <div class="nav__data">
                 <a href="#" class="nav__logo">
-                    <i class="ri-planet-line"></i> Company
+                    <img src="assets/img/logo.png" alt="logo">Plant
                 </a>
 
                 <div class="nav__toggle" id="nav-toggle">
